@@ -133,7 +133,7 @@ Introducción área
 }
 
 .intro {
-    background:url(./banner.png);
+    background:url(../images/banner.png);
     width: 100%;
     height: 40vh;
     display: flex;
