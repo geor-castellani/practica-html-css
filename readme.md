@@ -1,5 +1,9 @@
 <h1 align=center>Práctica de fundamentos web: HTML5, CSS3</h1>
 
+## Solución
+Este repositorio contiene la solución a la práctica mencionada debajo.
+Para acceder a la web ingrese [aquí](https://geor-castellani.github.io/practica-html-css/)
+
 ## Creación de un portfolio
 
 Consideraciones generales:
